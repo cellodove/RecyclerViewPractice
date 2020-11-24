@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.peter.recyclerviewpractice.databinding.ActivityMainBinding
 import com.peter.recyclerviewpractice.databinding.ItemListBinding
 
-class RecyclerViewAdapter : RecyclerViewHolder() {
+class RecyclerViewAdapter {
 
 
 }
